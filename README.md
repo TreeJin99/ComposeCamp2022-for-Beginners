@@ -63,7 +63,7 @@ Perferences -> Languages & Frameworks -> Kotlin
 ### 1. Repository fork 하기
 1. Github 로그인 후 위 사진처럼 ComposeCamp2022-for-Beginners 페이지 우측 상단에 Fork를 클릭!!
 ![](https://i.imgur.com/rQyQ7M1.png)
-  
+#    
 2.  Create a new fork로 넘어온 뒤 "Create fork" 버튼을 눌러 생성 완료!!
 ![](https://i.imgur.com/IVtvEDd.png)
 ###### fork 브랜치는 main 브랜치에 영향을 주지 않습니다. 마음껏 코드랩을 진행해보세요!
