@@ -57,29 +57,13 @@ Perferences -> Languages & Frameworks -> Kotlin
 
 
 2. Compose 버전 확인
-
-(방법) 다음과 같이 앱 또는 모듈의 build.gradle 파일에 필요한 아티팩트의 종속 항목을 추가합니다. 
-```
-android {
-    buildFeatures {
-        compose = true
-    }
-
-    composeOptions {
-        kotlinCompilerExtensionVersion = "1.3.2"
-    }
-
-    kotlinOptions {
-        jvmTarget = "1.8"
-    }
-}
-```
-
+(TBD)
 
 ## ⚙️ Github 활용방법
 ### 1. Repository fork 하기
 1. Github 로그인 후 위 사진처럼 ComposeCamp2022-for-Beginners 페이지 우측 상단에 Fork를 클릭!!
 ![](https://i.imgur.com/rQyQ7M1.png)
+
 2.  Create a new fork로 넘어온 뒤 "Create fork" 버튼을 눌러 생성 완료!!
 ![](https://i.imgur.com/IVtvEDd.png)
 ###### fork 브랜치는 main 브랜치에 영향을 주지 않습니다. 마음껏 코드랩을 진행해보세요!
